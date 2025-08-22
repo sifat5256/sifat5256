@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Freelance based work**
 
-- 🌱 I’m currently learning **Flutter and Laravel**
+- 🌱 I’m currently learning **Flutter,Laravel,AI/ML,Fast API **
 
 - 👨‍💻 All of my projects are available at My Github (Some exclusive,personal and buyer project are private)
 
