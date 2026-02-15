@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Freelance based work**
+- 🔭 I’m currently working on **MessageMind**
 
 - 🌱 I’m currently learning Flutter,Laravel,AI/ML,Fast API
 
