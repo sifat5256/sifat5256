@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sifat</h1>
-<h3 align="center">A passionate Software developer from Bangladesh</h3>
+<h1 align="center">Software Engineer specializing in Mobile, Backend, System Architecture & Scalable System Design</h1>
+<h3 align="center">A passionate Software Engineer from Bangladesh</h3>
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeFgG4rzRMjJhRwxXDxktcibPItP7XOGNaRQ&s"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sifat5256&label=Profile%20views&color=0e75b6&style=flat" alt="sifat5256" /> </p>
