@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Software Engineer from Bangladesh</h3>
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeFgG4rzRMjJhRwxXDxktcibPItP7XOGNaRQ&s"
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=sifat5256&label=Profile%20views&color=0e75b6&style=flat" alt="sifat5256](https://avatars.githubusercontent.com/u/140641867?s=400&u=6e1f3b7c734fdfb8f7477e666d3ff78aa0f38c5d&v=4)" /> </p>
+
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
